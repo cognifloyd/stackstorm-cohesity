@@ -95,4 +95,3 @@ ENV/
 .vscode
 *.sublime-project
 *.sublime-workspace# PyCharm
-.idea
