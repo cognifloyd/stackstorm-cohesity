@@ -1,4 +1,5 @@
 ---
-hostname: "cohesity.example"
-username: "CHANGE_ME"
-password: "CHANGE_ME"
+hostname: "cohesity-cluster.example.com"
+username: "EXAMPLE_USER"
+password: "EXAMPLE_PASSWORD"
+domain:   "example.com"
