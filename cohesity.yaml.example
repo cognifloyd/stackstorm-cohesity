@@ -1,0 +1,5 @@
+---
+hostname: "cohesity-cluster.example.com"
+username: "EXAMPLE_USER"
+password: "EXAMPLE_PASSWORD"
+domain:   "example.com"
